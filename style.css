@@ -23,6 +23,7 @@
 .date{
     font-size: small;
 }
+
 .subtitle{
     color: gray;
 }
@@ -47,8 +48,8 @@ table{
     background-color: rgba(0, 0, 255, 0.356);
     color: white;
 }
-th{
-    width: 30%;
+td{
+    width: 50%;
 }
 .ptextcolor{
     background-color: red;
@@ -66,4 +67,7 @@ th{
 }
 .imgfooter2{
     background-image: url(./img/graph.jpg);
+}
+.th2{
+    width: 25%;
 }

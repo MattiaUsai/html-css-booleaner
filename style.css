@@ -1,5 +1,16 @@
 *{
-    margin: 0;
     padding: 0;
+    margin: 0;
     box-sizing: border-box;
+}
+.pattern { 
+    background-color: aqua;
+    background-image: url(./img/pattern.png);
+    background-repeat: repeat;
+    padding-top: 50px;
+    background-size: contain;
+}
+.logo{
+    width: 10%;
+
 }

@@ -12,5 +12,13 @@
 }
 .logo{
     width: 10%;
-
+}
+.autor{
+    color: aqua;
+}
+.date{
+    font-size: small;
+}
+.subtitle{
+    color: gray;
 }

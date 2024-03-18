@@ -2,14 +2,18 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    width: auto;
+
+    
 }
 .pattern { 
     background-color: aqua;
     background-image: url(./img/pattern.png);
-    background-repeat: repeat;
+    background-repeat: repeat-x;
     padding-top: 50px;
     background-size: contain;
 }
+
 .logo{
     width: 10%;
 }
@@ -21,4 +25,45 @@
 }
 .subtitle{
     color: gray;
+}
+p{
+    margin: 1% 0;
+}
+ul {
+    padding-left: 15px;
+}
+
+table{
+    margin: 2% 0;
+    width: 100%;
+    text-align: left;
+}
+
+.colorrow {
+    background-color: aqua;
+}
+
+.inttable {
+    background-color: rgba(0, 0, 255, 0.356);
+    color: white;
+}
+th{
+    width: 30%;
+}
+.ptextcolor{
+    background-color: red;
+}
+.imgfooter{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 250px;
+    margin-top: 4px;
+    color: white;
+}
+.imgfooter1{
+    background-image: url(./img/monitor.jpg);
+}
+.imgfooter2{
+    background-image: url(./img/graph.jpg);
 }

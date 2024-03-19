@@ -1,6 +1,6 @@
 *{
     padding: 0;
-    margin: 0 ;
+    margin: 0 3%;
     box-sizing: border-box;
     width: auto;
 
@@ -12,6 +12,8 @@
     background-repeat: repeat-x;
     padding-top: 50px;
     background-size: contain;
+    margin: 0 0 ;
+    
 }
 
 .logo{
